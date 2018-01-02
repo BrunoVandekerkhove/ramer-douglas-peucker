@@ -1,7 +1,7 @@
 /**
  * Geometry tools.
  *
- * @author  Team Safier
+ * @author  Bruno Vandekerkhove
  * @version 1.0
  */
 
